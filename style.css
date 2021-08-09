@@ -1,12 +1,6 @@
 .container{
     position: relative;
 }
-ul,ol{
-    font-size: 25px;
-}
-p{
-    font-size: 25px;
-}
 h1{
     text-align: center;
     margin-top: 2px;
